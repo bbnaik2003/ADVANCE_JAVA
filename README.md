@@ -22,9 +22,13 @@ Output for LinkedList_1a-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1a
 1c. Linked List Programs
 
 1.output for LinkeslistIterator-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182914.png
+
 2.output for ListElementPositions-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182859.png
+
 3.output for ListOfferLast-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182938.png
+
 4.output for ListReverseIteration-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182954.png
+
 5.output for LinkedListSwapElement-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20183008.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
@@ -48,18 +52,26 @@ output for StringOperationDemo-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/m
 3b. String Exercise progams
 
 1.output for NullOrWhitespaceChech-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190400.png
+
 2.output for SubStringCounter-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190833.png
+
 3.output for ReverseStringDemo-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190629.png
+
 4.output for palindtomeChecker-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190552.png
+
 5.output for WhiteSoaceRemover-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190925.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 3c. String Exercise progams
 
 1.Output for CapitalizeWords-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192430.png
+
 2.Output for TruncateString-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192903.png
+
 3.Output for NumericCheck-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192547.png
+
 4.Output for RandomStringGenerator-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192649.png
+
 5.Output for WordCounter-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192930.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
