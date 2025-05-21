@@ -7,11 +7,11 @@ Output for LinkedList_1a-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1a
 
 1b. Array List programs
 
-1.output for ColorRemove-
-2.output for ColorSort-
-3.output for Searchcolor-
-4.output for colorRemoveByindex-
-5.output for colorSubList-
+1.output for ColorRemove-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1b_ArrayList_/Screenshot%202025-05-19%20181032.png
+2.output for ColorSort-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1b_ArrayList_/Screenshot%202025-05-19%20181105.png
+3.output for Searchcolor-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1b_ArrayList_/Screenshot%202025-05-19%20181136.png
+4.output for colorRemoveByindex-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1b_ArrayList_/Screenshot%202025-05-19%20181047.png
+5.output for colorSubList-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1b_ArrayList_/Screenshot%202025-05-19%20181124.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 1c. Linked List Programs
