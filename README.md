@@ -95,27 +95,27 @@ output for ColorTabbedPane-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/
 
 6a. Build a servlet program to find the factorial of a number using HTML with step by step procedure.
 
-Output for factorial-
+Output for factorial-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/6a_servlet%20program%20factorial_/Factorial.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 6b. Build a servlet program to create a cookie to get your name through text box and press submit button( through HTML) to display the message by greeting Welcome back your name ! , you have visited this page n times ( n = number of your visit ) and demonstrate the expiry of cookie also.
 
-Output-
+Output-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/6b_servlet%20program%20cookie_/6b%20output.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 6c. Build a servlet program to check the given number is prime number or not using HTML with step by step procedure.
 
-Output for prime-
+Output for prime-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/6c_servlet%20program%20prime%20number_/Prime1.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 7a. Build a Session Management using JSP program set with one minute session expiry time to get your name through text box and press submit to display the message by greeting Hello your name!. Check the expiry of the session after one minute.
 
-Output for sessionManagement-
+Output for sessionManagement-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/7a_Session%20Management%20using%20JSP%20program_/7a%20output.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 7b. Construct a Cookie Management program using JSP to get the fields Name, Domain and Max Expiry Age ( in sec) and press the button Add Cookie for displaying the set cookie information. Then it has to go to show the active cookie list when you press the link go to the active cookie list
 
-Output for cookieManagemnet-
+Output for cookieManagemnet-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/7b_Cookie%20Management%20program%20using%20JSP_/7bb.jpeg
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 8a. Q1. Read all the existing records from the table coffee which is from the database test and insert a new coffee product into it [Create a table coffee with fields ( id,coffee_name,price)] using HTML and JSP to get the fields and display the results respectively
