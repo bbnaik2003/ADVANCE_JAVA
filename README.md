@@ -25,19 +25,19 @@ Output for LinkedList_1a-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1a
 
 2 a. Develop a java program for performing various string operations with different stringhandling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email withcontains( ) and startsWith() and endsWith()
 
-output for StringOperationDemoo-
+output for StringOperationDemoo-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/2a_string_operations_/Screenshot%202025-05-19%20184624.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 2b. Develop a Java program to make a Performance Test on StringBuffer and StringBuilder forappending the string ‘AIET’ for 10000 times both in the StringBuffer and StringBuilder. Justify your answer which one is better.
 
-output for StringBufferVsStringBuilderPerformance-
+output for StringBufferVsStringBuilderPerformance-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/2b_StringBuffer%20and%20StringBuilder_/Screenshot%202025-05-19%20185121.png
 
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 3a. Develop a java program for performing various string operations with different stringhandling functions directed as follows: String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) andstartsWith() and endsWith()
 
-output for StringOperationDemo-
+output for StringOperationDemo-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3a_string%20operations_/Screenshot%202025-05-19%20185623.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 3b. String Exercise progams
