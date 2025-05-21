@@ -1,7 +1,7 @@
 # ADVANCE_JAVA
 1.a Develop a Java program for adding elements [Apple, Banana, Orange] into an ArrayList and a LinkedList to perform the following operations with different functions directed as follows
 
-Output for LinkedList_1a-
+Output for LinkedList_1a-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1a_ArrayList%26LinkedList_/Screenshot%202025-05-19%20180028.png
 
 .....................................................................................................................................................................................................................
 
