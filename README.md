@@ -42,21 +42,20 @@ output for StringOperationDemo-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/m
 
 3b. String Exercise progams
 
-1.output for NullOrWhitespaceChech-
-
-2.output for SubStringCounter-
-3.output for ReverseStringDemo-
-4.output for palindtomeChecker-
-5.output for WhiteSoaceRemover-
+1.output for NullOrWhitespaceChech-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190400.png
+2.output for SubStringCounter-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190833.png
+3.output for ReverseStringDemo-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190629.png
+4.output for palindtomeChecker-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190552.png
+5.output for WhiteSoaceRemover-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3b_String%20Exercise_/Screenshot%202025-05-19%20190925.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 3c. String Exercise progams
 
-1.Output for CapitalizeWords-
-2.Output for TruncateString-
-3.Output for NumericCheck-
-4.Output for RandomStringGenerator-
-5.Output for WordCounter-
+1.Output for CapitalizeWords-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192430.png
+2.Output for TruncateString-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192903.png
+3.Output for NumericCheck-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192547.png
+4.Output for RandomStringGenerator-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192649.png
+5.Output for WordCounter-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/3c_String%20Exercise_/Screenshot%202025-05-19%20192930.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 4a. Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
