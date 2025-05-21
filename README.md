@@ -16,11 +16,11 @@ Output for LinkedList_1a-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1a
 
 1c. Linked List Programs
 
-1.output for LinkeslistIterator-
-2.output for ListElementPositions-
-3.output for ListOfferLast-
-4.output for ListReverseIteration-
-5.output for LinkedListSwapElement-
+1.output for LinkeslistIterator-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182914.png
+2.output for ListElementPositions-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182859.png
+3.output for ListOfferLast-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182938.png
+4.output for ListReverseIteration-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20182954.png
+5.output for LinkedListSwapElement-https://github.com/bbnaik2003/ADVANCE_JAVA/blob/main/1c_Linked_List_/Screenshot%202025-05-19%20183008.png
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 
 2 a. Develop a java program for performing various string operations with different stringhandling functions directed as follows String Creation and Basic Operations, Length and Character Access, String Comparison, StringSearching, Substring Operations , String Modification, Whitespace Handling, String Concatenation, String Splitting, StringBuilder Demo, String Formatting , Validate Email withcontains( ) and startsWith() and endsWith()
